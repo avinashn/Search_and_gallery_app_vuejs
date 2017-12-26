@@ -20,3 +20,6 @@ You can see the demo of the project <a href="http://demos.justlaravel.com/posts-
 ## Reference Post
 <a href="http://justlaravel.com/posts-search-gallery-view-app-vue-js">http://justlaravel.com/posts-search-gallery-view-app-vue-js
 </a>
+
+## App Demo:
+https://www.youtube.com/watch?v=eJkVF2Q6Upk
